@@ -1,12 +1,8 @@
 ## SGD与Adam的区别
   
-  
-  
-  ![Uploading image.png…]()
-  
-  ![Uploading image.png…]()
-  ![Uploading image.png…]()
-  ![Uploading image.png…]()
-  ![Uploading image.png…]()
+ 原文：https://zhuanlan.zhihu.com/p/32230623
 
+  
+  
+  
   
