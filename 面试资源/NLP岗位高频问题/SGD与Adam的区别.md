@@ -1,2 +1,12 @@
-### SGD与Adam的区别
-TODO
+## SGD与Adam的区别
+  
+  
+  
+  ![Uploading image.png…]()
+  
+  ![Uploading image.png…]()
+  ![Uploading image.png…]()
+  ![Uploading image.png…]()
+  ![Uploading image.png…]()
+
+  
