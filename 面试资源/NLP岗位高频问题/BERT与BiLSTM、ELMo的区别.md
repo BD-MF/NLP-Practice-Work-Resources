@@ -1,2 +1,30 @@
 ## BERT与BiLSTM、ELMo的区别
+  ![image](https://user-images.githubusercontent.com/59279781/121286123-fa8b6b00-c911-11eb-93a1-3fdb20f70c74.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286143-01b27900-c912-11eb-9eab-c563aaeccbfb.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286162-070fc380-c912-11eb-818c-6786b9513d82.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286194-10992b80-c912-11eb-8c46-4200a392f34c.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286207-15f67600-c912-11eb-9024-06a8d93f372d.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286216-1abb2a00-c912-11eb-934a-c0bb006760d7.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286229-20187480-c912-11eb-987b-fb6a535eaa33.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286246-2575bf00-c912-11eb-8fd1-05f84bc27309.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286265-2ad30980-c912-11eb-916d-6d684a26392a.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286287-3292ae00-c912-11eb-8f85-b3fe04b07028.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286315-3a525280-c912-11eb-92f1-5ce603290cac.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286330-40e0ca00-c912-11eb-982b-82e76dfe2496.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286348-45a57e00-c912-11eb-8860-4f27a0f4e929.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286362-4b02c880-c912-11eb-8553-829db44c8d77.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286378-50f8a980-c912-11eb-9feb-753d70368716.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286393-57872100-c912-11eb-8ce9-5134229e4bdd.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286404-5d7d0200-c912-11eb-852e-257655497994.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286420-64a41000-c912-11eb-9c76-3fae47723ae1.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286436-6c63b480-c912-11eb-90ac-a098e39d41d6.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286460-74235900-c912-11eb-8137-f9281ef17a3c.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286474-7980a380-c912-11eb-9ead-cf021bb96028.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286498-80a7b180-c912-11eb-81cd-b8954d204384.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286525-88ffec80-c912-11eb-831d-72b5ca4afd70.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286553-91582780-c912-11eb-8b9a-e1c72de4a6ef.png)
+  ![image](https://user-images.githubusercontent.com/59279781/121286569-974e0880-c912-11eb-8b35-baba4411c15d.png)
 
+
+
+原文：https://blog.csdn.net/weixin_42253689/article/details/109958095
